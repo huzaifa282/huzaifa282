@@ -60,16 +60,13 @@ I build modern, responsive, and scalable web applications with a strong focus on
 
 ---
 
-## 📈 GitHub Stats  
-
-![Huzaifa's GitHub stats](https://github-readme-stats.vercel.app/api?username=huzaifa282&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa282&layout=compact&theme=radical)  
 
 ---
 
 ## 📫 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/huzaifa282/)  
-- 🌐 Portfolio:(https://www.portfolio-of-huzaifa.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/huzaifa-ahmad-313062202/)
+- 🌐 [Portfolio](https://www.portfolio-of-huzaifa.vercel.app/)
 - 📧 Email: alihuzaifa282@gmail.com 
 
 ---
