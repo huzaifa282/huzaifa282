@@ -1,73 +1,27 @@
-# 👋 Hi, I'm Huzaifa Ahmad  
+# Hi, I'm Huzaifa 👋
 
-🚀 **Full Stack Web Developer | Frontend Specialist | Web Designer**  
+Full-stack developer from Faisalabad, Pakistan. I build SaaS products and AI-powered web apps with **Next.js, TypeScript and Supabase**, and I'm building **[Whiteprnt Studio](https://whiteprnt.com)**, a web development and design studio.
 
-I build modern, responsive, and scalable web applications with a strong focus on **user experience, performance, and clean code**. Passionate about creating digital products that combine functionality with design.  
+- 🧭 Built **[GuideMe](https://github.com/huzaifa282/GuideMe)** solo at Hacktoberfest Hack Day Faisalabad 2026
+- 🔨 Currently building **[Ascend](https://github.com/huzaifa282/Ascend)**, an open-source, local-first life RPG
+- 🎓 BSCS at The University of Faisalabad
+- 💼 Open to part-time remote developer roles
 
----
+## Featured work
 
-## 🛠️ Tech Stack
+| Project | What it is | Built with |
+|---|---|---|
+| **[GuideMe](https://github.com/huzaifa282/GuideMe)** | Chrome extension that shows you where to click on any website, step by step, in English, Urdu or Roman Urdu. Reads the next pages ahead so later steps appear instantly. | JavaScript, Chrome MV3, Gemma 4 |
+| **[Ascend](https://github.com/huzaifa282/Ascend)** | Local-first life RPG: an LLM turns what you do into stat points, with tasks, a timer and a desktop widget. Bring your own AI key. | TypeScript |
+| **[AcademiaSync](https://academiasync.online)** | Full-stack academic task manager, live in production, with 57 Jest tests at ~99% coverage. | TypeScript, Next.js |
+| **[Weather-AI](https://github.com/huzaifa282/Weather-AI)** | Weather app with real-time data, dynamic backgrounds and an AI chatbot, in a glassmorphism design. | React, JavaScript |
 
-### 🌐 Frontend
-<p align="left">
-  <!-- Devicon -->
-  <img alt="HTML5"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" style="margin:6px;padding:8px;border-radius:50%;background:#111827;">
-  <img alt="React"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" style="margin:6px;padding:8px;border-radius:50%;background:#111827;">
-  <img alt="MongoDB"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42" style="margin:6px;padding:8px;border-radius:50%;background:#111827;">
-  <img alt="Figma"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42" style="margin:6px;padding:8px;border-radius:50%;background:#111827;">
-  <img alt="CSS3"        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" style="margin:6px;padding:8px;border-radius:50%;background:#111827;">
-  <img alt="JavaScript"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" style="margin:6px;padding:8px;border-radius:50%;background:#111827;">
-  <!-- Tailwind: correct slug -->
-  <img alt="Tailwind CSS"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="42" style="margin:6px;padding:8px;border-radius:50%;background:#111827;">
-  <img alt="Photoshop"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="42" style="margin:6px;padding:8px;border-radius:50%;background:#111827;">
-  <img alt="Illustrator" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="42" style="margin:6px;padding:8px;border-radius:50%;background:#111827;">
-  <img alt="PostgreSQL"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" style="margin:6px;padding:8px;border-radius:50%;background:#111827;">
-  <img alt="WordPress"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="42" style="margin:6px;padding:8px;border-radius:50%;background:#111827;">
-  <img alt="MySQL"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" style="margin:6px;padding:8px;border-radius:50%;background:#111827;">
-</p>
+## Tech I use
 
-### ⚙️ Backend & Databases
-<p align="left">
-  <img alt="C"           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" style="margin:6px;padding:8px;border-radius:50%;background:#111827;">
-  <img alt="Firebase"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="42" style="margin:6px;padding:8px;border-radius:50%;background:#111827;">
-  <img alt="TypeScript"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" style="margin:6px;padding:8px;border-radius:50%;background:#111827;">
-  <img alt="Node.js"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" style="margin:6px;padding:8px;border-radius:50%;background:#111827;">
-  <!-- Supabase (Simple Icons) -->
-  <img alt="Supabase"    src="https://cdn.simpleicons.org/supabase" width="42" style="margin:6px;padding:8px;border-radius:50%;background:#111827;">
-  <!-- Framer / Motion (Simple Icons) -->
-  <img alt="Framer Motion" src="https://cdn.simpleicons.org/framer" width="42" style="margin:6px;padding:8px;border-radius:50%;background:#111827;">
-  <!-- Dark logos on white pills for contrast -->
-  <img alt="Next.js"     src="https://cdn.simpleicons.org/nextdotjs" width="42" style="margin:6px;padding:8px;border-radius:50%;background:#ffffff;">
-  <img alt="Express"     src="https://cdn.simpleicons.org/express"   width="42" style="margin:6px;padding:8px;border-radius:50%;background:#ffffff;">
-  <img alt="GitHub"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" style="margin:6px;padding:8px;border-radius:50%;background:#ffffff;">
-  <img alt="Canva"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="42" style="margin:6px;padding:8px;border-radius:50%;background:#111827;">
-  <!-- Microsoft Office (Simple Icons) -->
-  <img alt="Microsoft Office" src="https://cdn.simpleicons.org/microsoftoffice" width="42" style="margin:6px;padding:8px;border-radius:50%;background:#111827;">
-</p>
+[![My stack](https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,supabase,postgres,nodejs,vercel,git,figma&perline=10)](https://skillicons.dev)
 
-### 🖥️ Tools & Platforms
-<p align="left">
-  <img alt="Linux"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" style="margin:6px;padding:8px;border-radius:50%;background:#111827;">
-  <img alt="Shopify"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" width="42" style="margin:6px;padding:8px;border-radius:50%;background:#111827;">
-  <img alt="C#"          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="42" style="margin:6px;padding:8px;border-radius:50%;background:#111827;">
-  <!-- Prisma (Simple Icons) -->
-  <img alt="Prisma"      src="https://cdn.simpleicons.org/prisma" width="42" style="margin:6px;padding:8px;border-radius:50%;background:#ffffff;">
-  <img alt="Vercel"      src="https://cdn.simpleicons.org/vercel" width="42" style="margin:6px;padding:8px;border-radius:50%;background:#ffffff;">
-  <!-- OpenAI (Simple Icons) -->
-  <img alt="OpenAI"      src="https://cdn.simpleicons.org/openai" width="42" style="margin:6px;padding:8px;border-radius:50%;background:#111827;">
-</p>
+**AI:** Claude API · Gemini API · Gemma 4 &nbsp;|&nbsp; **Data:** Drizzle ORM · PostgreSQL · Supabase
 
+## Connect
 
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa282&layout=compact&theme=radical)  
-
----
-
-## 📫 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/huzaifa-ahmad-313062202/)
-- 🌐 [Portfolio](https://www.portfolio-of-huzaifa.vercel.app/)
-- 📧 Email: alihuzaifa282@gmail.com 
-
----
-⭐️ *“Code is like humor. When you have to explain it, it’s bad.”*  
+[Portfolio](https://portfolio-of-huzaifa.vercel.app) · [LinkedIn](https://www.linkedin.com/in/huzaifa-ahmad-313062202/) · [Whiteprnt Studio](https://whiteprnt.com) · alihuzaifa282@gmail.com
